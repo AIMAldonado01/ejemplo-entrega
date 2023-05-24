@@ -2,3 +2,7 @@
 
 # Layout con flex, con grid. Y deben de colocar estilos.
 # 2 páginas 100% responsive, que no haya un scroll horizontal.
+
+# Deben de utilizar un componente de bootstrap. Qué es un componente? 
+
+# Entreguen esta pre-entrega a través de github
